@@ -4,6 +4,7 @@
 ### A Software Developer dedicated to crafting powerful logic and seamless digital experiences.
 
 [![Website](https://img.shields.io/badge/saurabhxo.site-080808?style=for-the-badge&logo=google-chrome&logoColor=white)](https://saurabhxo.site)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/jadhavsau777)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jadhavsau777/)
 [![Email](https://img.shields.io/badge/work.jadhavsaurabh@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:work.jadhavsaurabh@gmail.com)
 
